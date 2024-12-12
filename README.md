@@ -1,13 +1,14 @@
 # Personalized Stress-level-classifier
-This project utilizes machine learning to analyze stress data and classify stress levels into three categories: **Low**, **Normal**, and **High**. The solution is designed for applications such as wellness tracking, stress management, and psychological assessments, providing actionable insights into individual stress patterns.
+This project utilizes machine learning to analyze stress data and classify stress levels into three categories: **Low**, **Normal**, and **High**. 
+A more comprehensive approach using a The solution is designed for applications such as wellness tracking, stress management, and psychological assessments, providing actionable insights into individual stress patterns.
 
 
 # Features
-Programming language: Python
-Data Preprocessing: Cleans and normalizes the raw stress data.
-Classification: Classifies stress levels into low, normal, or high based on input data.
-Machine Learning Models: Multi-layer perceptron neutron, Decision trees, K-nearest neighbor.
-Visualization: Matplotlib, Seaborn, Plotly.
+**Programming language**: Python
+**Data Preprocessing**: Cleans and normalizes the raw stress data.
+**Classification**: Classifies stress levels into low, normal, or high based on input data.
+**Machine Learning Models**: Multi-layer perceptron neutron, Decision trees, K-nearest neighbor.
+**Visualization**: Matplotlib, Seaborn, Plotly.
 
 
 # License
