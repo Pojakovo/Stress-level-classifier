@@ -5,9 +5,13 @@ A more comprehensive approach using a The solution is designed for applications 
 
 # Features
 **Programming language**: Python
+
 **Data Preprocessing**: Cleans and normalizes the raw stress data.
+
 **Classification**: Classifies stress levels into low, normal, or high based on input data.
+
 **Machine Learning Models**: Multi-layer perceptron neutron, Decision trees, K-nearest neighbor.
+
 **Visualization**: Matplotlib, Seaborn, Plotly.
 
 
