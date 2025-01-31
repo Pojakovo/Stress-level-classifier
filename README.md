@@ -24,6 +24,6 @@ Contributions to this project are welcome! If you have any ideas, suggestions, o
 # Contact
 Feel free to also reach me on preciouslouis1990@gmail.com , https://www.linkedin.com/in/precious-ojakovo
 
-# This was a voluntary hobby project that I performed at my leisure, the code probably has bugs and provided "as is" without warranty of any kind
+#This was a voluntary hobby project that I performed at my leisure, the code probably has bugs and provided "as is" without warranty of any kind
 
 
